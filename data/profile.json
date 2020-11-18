@@ -1,0 +1,168 @@
+{
+  "contact": {
+    "phone": "+358 40 13 99 466",
+    "email": "muqeetmuhammad@gmail.com",
+    "location": "Helsinki, Finland",
+    "github": "https://www.github.com/Muqeet1",
+    "linkedin": "https://www.linkedin.com/in/muqeet-muhammad"
+
+  },
+  "skills": [
+    {
+      "title": "Languages/Libraries",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Javascript",
+          "percent": 89
+        },
+        {
+          "name": "Python",
+          "percent": 95
+        },
+        {
+          "name": "React",
+          "percent": 85
+        },
+        {
+          "name": "Gatsby",
+          "percent": 85
+        },
+        {
+          "name": "NodeJs",
+          "percent": 92
+        },
+        {
+          "name": "CSS",
+          "percent": 70
+        },
+        {
+          "name": "Flask",
+          "percent": 85
+        },
+        {
+          "name": "Pandas",
+          "percent": 81
+        },
+        {
+          "name": "Docker",
+          "percent": 93
+        },
+        {
+          "name": "PHP",
+          "percent": 65
+        },
+        {
+          "name": "Git (Github, Gitlab)",
+          "percent": 70
+        },
+        {
+          "name": "CI/CD DevOps",
+          "percent": 80
+        },
+        {
+          "name": "RESTFUL APIs",
+          "percent": 80
+        }
+      ]
+    },
+  
+    
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Postgresql"
+        },
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "SQL/NOSQL"
+        },
+        {
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "Interests",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Running"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Reading"
+        },
+        {
+          "name": "Chess"
+        }
+      ]
+    }
+  ],
+  "summary": "I am an experienced IT professional proficient in modern technologies like JS, React, Git, Docker, Python, APIs, AWS, SQL & NOSQL. Diligent developer with a detailed comprehension of software development lifecycles, evolving web standards & Agile Methodoligies. Excellent team player with a problem solving mind & attention to detail.",
+  "education": [
+    {
+      "institution": "Lapland University of Applied Sciences",
+      "degree": "Bachelor of Business Administration",
+      "start": "2014",
+      "end": "2018"
+    },
+    {
+      "institution": "Kajaani University of Applied Sciences",
+      "degree": "Technical Diploma",
+      "start": "2020",
+      "end": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Automation Engineer",
+      "company": "Amplaffy",
+      "description": "Created an automated web scraper to scrape relevant data for the company. Filtered the data, scraped keywords for matching process. Created a matching ML algorithm with a visual representation of matching perecentage.",
+      "start": "01/2020",
+      "end": ""
+    },
+    {
+      "role": "Fullstack Development",
+      "company": "Freelance Contracts",
+      "description": "Developed web-solutions, APIs using a variety of languages, frameworks, and platforms such as JS, React, Node.js, Cordova, RESTFUL and Flask. Worked closely with the planning, design, and delivery of software products and services with various clients.",
+      "start": "09/2018",
+      "end": "09/2019"
+    },
+    {
+      "role": "Database Administration",
+      "company": "K.M. Ashraf & Sons (Pvt. Ltd.)",
+      "description": "Managed Oracle database administration assignments for diverse industry clients. Enhanced database performance, performed restores, implemented recovery procedures, handled performance tuning and conducted regular system backups. Ensured technical and functional designs meet business requirements.",
+      "start": "07/2016",
+      "end": "07/2017"
+    },
+    
+    {
+      "role": "Full Stack Developer Junior",
+      "company": "FV Magazine NY, USA ",
+      "description": "Built modern Wordpress website with custom development.Implemented CMS, SEO, Analytics and relational database. Technologies used such as JS ES6, HTML5, CSS3, PHP & MYSQL.",
+      "start": "01/2016",
+      "end": "08/2017"
+    }
+  ],
+ 
+  "role": "Software Engineer",
+  "projects": [
+    {
+      "name": "Gatsby resume starter",
+      "company": "Open source",
+      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
+      "link": "https://github.com/Muqeet1"
+    }
+  ],
+  "fullname": "Muqeet Muhammad"
+}
